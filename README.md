@@ -1,4 +1,4 @@
-# Single_Object_Tracking_Paper_List
+# Single Object Tracking
 Paper list for single object tracking (Modified from [[benchmark_results](https://github.com/foolwood/benchmark_results)] and continue to Update this list) 
 
 ![fig-1](https://github.com/wangxiao5791509/Single_Object_Tracking_Paper_List/blob/main/trackingTypes.png)
@@ -6,25 +6,13 @@ Paper list for single object tracking (Modified from [[benchmark_results](https:
 ![fig-1](https://github.com/wangxiao5791509/Single_Object_Tracking_Paper_List/blob/main/tracking_words.png)
 
 
-### Pre-print: 
+### Infrared UAV Tracking: 
 
 
-* **VastTrack: Vast Category Visual Object Tracking**, Liang Peng, Junyuan Gao, Xinran Liu, Weihong Li, Shaohua Dong, Zhipeng Zhang, Heng Fan, Libo Zhang
-  [[Paper](https://arxiv.org/abs/2403.03493)] 
+* **SiamIST: Infrared small target tracking based on an improved SiamRPN**, Kun Qian, Shou-jin Zhang, Hong-yu Ma, Wen-jun Sun [[Paper]([https://arxiv.org/abs/2403.03493](https://www.sciencedirect.com/science/article/pii/S135044952300378X/pdfft?md5=2088f566bf3ace7d435ad877dcde7042&pid=1-s2.0-S135044952300378X-main.pdf)****)]
+* 
 
-* "**CRSOT: Cross-Resolution Object Tracking using Unaligned Frame and Event Cameras**." Yabin Zhu, Xiao Wang, Chenglong Li, Bo Jiang, Lin Zhu, Zhixiang Huang, Yonghong Tian, Jin Tang. arXiv preprint arXiv:2401.02826. [[arXiv](https://arxiv.org/abs/2401.02826)]
-
-* **Revisiting Color-Event based Tracking: A Unified Network, Dataset, and Metric**, Chuanming Tang, Xiao Wang, Ju Huang, Bo Jiang, Lin Zhu, Jianlin Zhang, Yaowei Wang, Yonghong Tian
-[[Paper](https://arxiv.org/abs/2211.11010)]
-[[Github](https://github.com/Event-AHU/COESOT)] 
-[[DemoVideo](https://youtu.be/_ROv09rvi2k)]
-
-* [IEEE TCYB-2023] **VisEvent: Reliable Object Tracking via Collaboration of Frame and Event Flows**, Xiao Wang, Jianing Li, Lin Zhu, Zhipeng Zhang, Zhe Chen, Xin Li, Yaowei Wang, Yonghong Tian, Feng Wu [[Paper](https://arxiv.org/abs/2108.05015)] [[Project](https://sites.google.com/view/viseventtrack/)] [[Video](https://www.youtube.com/watch?v=U4uUjci9Gjc)] [[VideoTutorial](https://youtu.be/vGwHI2d2AX0)]
-
-
-
-### CVPR 2024 
-
+### Hyperspectral Object Tracking
 
 
 * **DiffusionTrack: Point Set Diffusion Model for Visual Object Tracking**,
